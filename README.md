@@ -1,3 +1,5 @@
+#Deployd 
+after mongodb downdload and dnd install do 'dpd -m "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"'
 # Practik
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
