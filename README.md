@@ -1,6 +1,6 @@
 # Deployd 
 
-After mongodb downdload and dnd install do 'dpd -m "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"'
+After mongodb downdload and dnd install do this and you run deployd 'dpd -m "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"'.
 
 # Practik
 
