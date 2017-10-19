@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h2>Каталог</h2>
+		</div>
+	</div>
+	<div class="row">
+			<div class="col-md-4" *ngFor="let item of catalog">
+				<div class="product">
+					<div class="image">
+						<img src="" alt="Картинка">
+					</div>
+					<div class="title">
+						<h4>{{item.title}}</h4>
+					</div>
+					<div class="price">
+						<h5>Цена: {{item.price}} грн.</h5>
+					</div>
+					<button class="btn btn-success">To cart</button>
+				</div>
+			</div>
+	</div>
+</div>
